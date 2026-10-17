@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "docs/api-key-storage",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "docs/api-key-storage": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "docs/api-key-storage",
+    "origin"
+  ]
+}
